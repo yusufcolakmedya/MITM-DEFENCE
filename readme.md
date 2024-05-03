@@ -50,3 +50,11 @@ WinPcap offers the following features:
 - Filtering:** Ability to filter captured packets based on various criteria.
 - Analysis:** Ability to process and analyze captured packets.
 - High Level Interface:** Provides a high level interface to low level network stack mechanisms.
+
+## MITM-DEFENSE V 1.0
+
+spoofing the ARP table
+
+## MITM-DEFENSE V 2.0
+
+Sends surprise package to attacker
